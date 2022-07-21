@@ -23,7 +23,7 @@ t
 Now every day you'll know what you worked on yesterday!
 
 ```
-\# this is where you'll get dropped by default.
+# this is where you'll get dropped by default.
 calvin@bison:~/work/2022/07/10$ 
 
 calvin@bison:~/work/2022/07/10$ ls
