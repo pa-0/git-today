@@ -22,6 +22,7 @@ t
 
 Now every day you'll know what you worked on yesterday!
 
+```
 \# this is where you'll get dropped by default.
 calvin@bison:~/work/2022/07/10$ 
 
@@ -35,6 +36,7 @@ calvin@bison:~/work/2022/07$ cd ..; ls
 01  02  03  04  05  06  07
 calvin@bison:~/work/2022$ cd ..; ls
 2021  2022
+```
 
 additionally you'll get a shortcut, you can type 't' as a bash fn, or go to ~/t/
 which is symlinked and updated everytime you run today (which is everytime you
