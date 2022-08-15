@@ -1,0 +1,13 @@
+#!/bin/bash
+mkdir ~/work -p;
+cd ~/work;
+path=`date +'%Y'`/`date +'%m'`/`date +'%d'`
+
+mkdir $path -p
+cd $path
+
+t=~/work/$path
+export t;
+
+rm ~/t;
+ln -s $t ~/t;
